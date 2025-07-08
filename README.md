@@ -1,12 +1,3 @@
-# 📰 Fake News Detector
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_LIVE_APP_URL)
-
-This is a simple **Fake News Detection App** built using **Python**, **Streamlit**, and **Machine Learning**.
-
-🌐 **Live Demo:** [Click here to try it](https://fake-news-detector-ompisal.streamlit.app)
-
-
 
 # 📰 Fake News Detector
 
