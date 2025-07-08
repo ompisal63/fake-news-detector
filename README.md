@@ -1,5 +1,15 @@
 # 📰 Fake News Detector
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_LIVE_APP_URL)
+
+This is a simple **Fake News Detection App** built using **Python**, **Streamlit**, and **Machine Learning**.
+
+🌐 **Live Demo:** [Click here to try it](YOUR_LIVE_APP_URL)
+
+
+
+# 📰 Fake News Detector
+
 This is a simple **Fake News Detection App** built using **Python**, **Streamlit**, and **Machine Learning**.
 
 It uses **NLP** and a **Naive Bayes Classifier** trained to detect whether a news article is **Fake** or **Real**.
