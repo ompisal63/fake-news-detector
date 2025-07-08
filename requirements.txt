@@ -4,3 +4,4 @@ pandas
 numpy
 PyPDF2
 spacy
+streamlit-lottie
